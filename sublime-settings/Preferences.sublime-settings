@@ -1,0 +1,40 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Solarized (Dark_JH) (SL).tmTheme",
+	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		"*.cache",
+		"*.log",
+		"app-bundle.js",
+		"app-bundle.js.map"
+	],
+	"folder_exclude_patterns":
+	[
+		"migrate-archive",
+		"node_modules",
+		"user_docs",
+		"dummy",
+		"coverage",
+		"doc_assets",
+		"tmp",
+		".git",
+		".json",
+		"ydoc"
+	],
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		100
+	],
+	"show_definitions": false,
+	"show_full_path": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true"
+}

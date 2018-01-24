@@ -1,0 +1,20 @@
+[
+  {
+    "keys": ["control+alt+;"], "command": "align_tab",
+    "args" : {
+      "user_input" : ":/f"
+    }
+  },
+  {
+    "keys": ["control+alt+="], "command": "align_tab",
+    "args" : {
+      "user_input" : "=/f"
+    }
+  },
+  {
+    "keys": ["control+alt+."], "command": "align_tab",
+    "args" : {
+      "user_input" : "=>/f"
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AlignTab",
+		"All Autocomplete",
+		"AutoAligner",
+		"AutoWrap",
+		"Babel",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"GitStatus",
+		"JSX",
+		"MarkdownHighlighting",
+		"MarkdownLivePreview",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pretty JSON",
+		"RSpec",
+		"RuboCop",
+		"SendCode",
+		"SendText",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-rubocop"
+	]
+}
